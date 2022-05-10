@@ -12,8 +12,13 @@ hr {
 h1{
   text-shadow: 2px 2px 5px white;
   color: gold;
+   transform: rotate3d(33, 25, 0, 60deg);
 }
 h3{
   text-shadow: 2px 2px 5px white;
   color: gold;
+}
+/*eat a dick DRAKE */
+img{
+  background-color: red;
 }
